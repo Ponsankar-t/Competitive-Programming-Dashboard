@@ -42,9 +42,6 @@ npm start
 To run backend of this project follow these commands
 
 ```bash
-cd backend
-```
-```bash
 cd express
 ```
 ```bash
