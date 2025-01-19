@@ -9,7 +9,7 @@ import Codechef from './codechef';
 import home from './home';
 function App() {
   return (
-    <Router>
+    <Router> 
     <div>
         <Switch>
             <Route exact path="/" component={login} />a
